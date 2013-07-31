@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SAML2.Logging.CommonLogging</id>
+    <version>1.0.0.0</version>
+    <title>SAML2.Logging.CommonLogging</title>
+    <authors>Michael Hallock</authors>
+    <owners>Michael Hallock</owners>
+    <licenseUrl>https://saml2commonlogging.codeplex.com/license</licenseUrl>
+    <projectUrl>https://saml2commonlogging.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A log provider for SAML2 based on Common.Logging.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>SAML SSO Log4Net</tags>
+    <dependencies>
+      <dependency id="SAML2" version="1.0.0.3" />
+      <dependency id="Common.Logging" version="2.1.2" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="content\web.config.transform" target="content" />
+    <file src="..\src\SAML2.Logging.CommonLogging\bin\Release\SAML2.Logging.CommonLogging.dll" target="lib\net40" />
+  </files>
+</package>
