@@ -1,0 +1,5 @@
+<configuration>
+  <SAML20Federation>
+    <Logging loggingFactory="SAML2.Logging.CommonLogging.CommonLoggingLoggerFactory, SAML2.Logging.CommonLogging" />
+  </SAML20Federation>
+</configuration>
