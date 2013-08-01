@@ -12,7 +12,7 @@
     <description>A log provider for SAML2 based on Common.Logging.</description>
     <releaseNotes>Initial release.</releaseNotes>
     <copyright>Copyright 2013</copyright>
-    <tags>SAML SSO Log4Net</tags>
+    <tags>SAML SSO Common.Logging</tags>
     <dependencies>
       <dependency id="SAML2" version="1.0.0.3" />
       <dependency id="Common.Logging" version="2.1.2" />
