@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SAML2.Loggin.CommonLogging")]
+[assembly: AssemblyTitle("SAML2.Logging.CommonLogging")]
 [assembly: AssemblyDescription("A logging provider for SAML2 based on Common.Logging")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Michael Hallock")]
-[assembly: AssemblyProduct("SAML2.Loggin.CommonLogging")]
+[assembly: AssemblyProduct("SAML2.Logging.CommonLogging")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
