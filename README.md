@@ -1,5 +1,7 @@
 # SAML2.Logging.CommonLogging
 
+[![Build status](https://ci.appveyor.com/api/projects/status/0d3w62i0grl5pvcx/branch/release?svg=true)](https://ci.appveyor.com/project/i8beef/saml2-logging-commonlogging/branch/release)
+[![Build status](https://ci.appveyor.com/api/projects/status/0d3w62i0grl5pvcx/branch/master?svg=true)](https://ci.appveyor.com/project/i8beef/saml2-logging-commonlogging/branch/master)
 A logging provider for SAML2 based on Common.Logging.
 
 ### Where to get it
