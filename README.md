@@ -14,7 +14,7 @@ See wiki.
 
 ### License
 
-This library is released under the [Mozilla Public License 2.0 (MPL-2.0)](https://github.com/i8beef/SAML2.Profiles.DKSAML20/blob/master/LICENSE).
+This library is released under the [Mozilla Public License 2.0 (MPL-2.0)](https://github.com/i8beef/SAML2.Logging.CommonLogging/blob/master/LICENSE).
 
 ### Bug reports
 
